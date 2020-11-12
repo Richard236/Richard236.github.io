@@ -1,5 +1,5 @@
 var width = 800
-var height = 600
+var height = 650
 var padding = { top: 20, right: 20, bottom: 20, left: 20 };
 
 var svg = d3.select('#medal-vis')
